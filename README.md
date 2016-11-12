@@ -12,3 +12,5 @@ The Discord server is the place to be for anything related to our mod. You can m
 **Coming soon!**
 
 While the changelog is being compiled, here is a list of characters we have finished and are in the process of finishing. https://docs.google.com/document/d/1rOtyUifRf5P4agabf4SdmDaOqVmFmZTNp62VjXFiIKA/edit?usp=sharing
+
+*I added this because I was asked too :P*
